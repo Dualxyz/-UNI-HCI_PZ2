@@ -1,6 +1,6 @@
 # HCI_PZ2 (CG3 T5 G2 P1)
 
-Projekat je realizovan u WPF tehnologiji koristeci MVVM obrazac.
+Projekat je realizovan u WPF tehnologiji koristeci MVVM obrazac. Konretna specifikacija projekta se nalazi u Specifikacija.pdf fajlu.
  
 ## CG3
 
